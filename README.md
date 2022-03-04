@@ -22,7 +22,7 @@ This task requires the usage of not only the pixel inensity and also the pixel c
 This method generates superpixels by considering a distance measure in the 5D space where the cluster center lies in a 2Sx2S neighborhood where S is the number of grid intervals.  
 
 <p float="left">
-<img src="https://github.com/jayesh68/SLIC-Superpixels-Kmeans/blob/main/Data/SLIC2.png" width="300" height="300"/>
-<img src="https://github.com/jayesh68/SLIC-Superpixels-Kmeans/blob/main/Data/slic1.png" width="300" height="300"/>
-<img src="https://github.com/jayesh68/SLIC-Superpixels-Kmeans/blob/main/Data/SLIC3.png" width="300" height="300"/>
+<img src="https://github.com/jayesh68/SLIC-Superpixels-Kmeans/blob/main/Data/SLIC2.png" width="275" height="300"/>
+<img src="https://github.com/jayesh68/SLIC-Superpixels-Kmeans/blob/main/Data/slic1.png" width="275" height="300"/>
+<img src="https://github.com/jayesh68/SLIC-Superpixels-Kmeans/blob/main/Data/SLIC3.png" width="275" height="300"/>
 </p>
